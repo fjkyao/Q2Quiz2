@@ -1,0 +1,31 @@
+body {
+		background: url(Quiz2bg.jpg);
+		background-size: cover;
+		background-repeat: no-repeat;
+		font-family: "Parkinsans", sans-serif;
+			}
+
+.container {
+		background-color: lavenderblush;
+		padding: 15px;
+		border-radius: 25px;
+		border: 8px solid royalblue;
+		border-radius: 25px;
+		box-shadow: 10px 10px 5px 0px #7F94BB;
+	}
+
+h2 {
+	text-align: center;
+}
+
+#cat{
+	width: 30px;
+}
+
+.form-check{
+	margin-left: 25%;
+}
+
+.comment {
+	column-width: 50px;
+}
